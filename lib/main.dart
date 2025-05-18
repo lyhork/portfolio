@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Modern Portfolio',
+      title: 'LLH Portfolio',
       theme: isDark ? ThemeData.dark() : ThemeData.light(),
       home: Scaffold(
         appBar: AppBar(
